@@ -16,4 +16,14 @@ Script de Windows Server Backup - Backup Hyper-V agendado (Máquinas Virtuais).p
 
 Script de Windows Server Backup - Restauração do Hyper-V (Máquinas Virtuais).ps1
 
-*Backup e restauração de arquivos e pastas - Scripts Backup e restauração de arquivos e pastas*
+**Backup e restauração de arquivos e pastas - Scripts Backup e restauração de arquivos e pastas**
+
+Script de Windows Server Backup - Backup de arquivo agendado.ps1
+
+Script de Windows Server Backup - Backup de arquivo.ps1
+
+Script de Windows Server Backup - Backup de pastas.ps1
+
+Script de Windows Server Backup - Restauração de arquivos.ps1
+
+Script de Windows Server Backup - Restauração de pastas.ps1
