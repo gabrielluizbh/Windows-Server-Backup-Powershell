@@ -59,6 +59,6 @@
 - Script de Windows Server Backup - Restauração de pastas.ps1
 
 
-**Para maior entendimento para execução do script acesse o link do artigo: https://gabrielluiz.com/2022/11/deploy-adds-domain-controller/**
+**Para maior entendimento para execução do script acesse o link do artigo: https://cooperati.com.br/2023/03/windows_server_backup_powershell/**
 
 **Créditos - Gabriel Luiz - www.gabrielluiz.com**
