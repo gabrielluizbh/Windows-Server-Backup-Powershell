@@ -1,6 +1,6 @@
 # Scripts do Windows Server Backup Powershell
 
-Antes de fazer uso do scripts abaixo instale o Windows Server Backup pelo Powershell.
+Antes de fazer uso do scripts abaixo instale o Windows Server Backup pelo Powershell, utilizando o comando abaixo.
 
 **Add-WindowsFeature -Name Windows-Server-Backup -IncludeAllSubFeature:$true -Restart:$false # Instala o recurso Windows Server backup.**
 
