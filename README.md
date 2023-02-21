@@ -57,3 +57,8 @@
 - Script de Windows Server Backup - Restauração de arquivos.ps1
 
 - Script de Windows Server Backup - Restauração de pastas.ps1
+
+
+**Para maior entendimento para execução do script acesse o link do artigo: https://gabrielluiz.com/2022/11/deploy-adds-domain-controller/**
+
+**Créditos - Gabriel Luiz - www.gabrielluiz.com**
