@@ -62,6 +62,7 @@ Antes de fazer uso do scripts abaixo instale o Windows Server Backup pelo Powers
 
 - Script de Windows Server Backup - Restauração de pastas.ps1
 
+## **Mais informações:**
 
 **Para maior entendimento para execução do script acesse o link do artigo: https://cooperati.com.br/2023/03/windows_server_backup_powershell/**
 
